@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="67fa5b8a-e3ba-4ad7-84bf-bcd8dd460758" name="Default Changelist" comment="" />
+    <list default="true" id="67fa5b8a-e3ba-4ad7-84bf-bcd8dd460758" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/zhaoyaojing_huoli.py" beforeDir="false" afterPath="$PROJECT_DIR$/zhaoyaojing_huoli.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,8 +30,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/zhaoyaojing_huoli.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="177" selection-start-line="177" selection-end-line="177" />
+            <state relative-caret-position="-2305">
+              <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+              <folding>
+                <element signature="e#15#30#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -154,12 +159,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552966757988</updated>
-      <workItem from="1552966759333" duration="25537000" />
+      <workItem from="1552966759333" duration="25973000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25537000" />
+    <option name="totallyTimeSpent" value="25973000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="469" y="49" width="1694" height="1046" extended-state="0" />
@@ -222,8 +227,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/zhaoyaojing_huoli.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="177" selection-start-line="177" selection-end-line="177" />
+        <state relative-caret-position="-2305">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+          <folding>
+            <element signature="e#15#30#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
