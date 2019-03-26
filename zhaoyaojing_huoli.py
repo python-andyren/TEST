@@ -19,7 +19,7 @@ def to_sql(li):
     #         ssh_username='root',
     #         remote_bind_address=('10.9.72.185', 3306)) as server:  # A机器的配置
 
-    db_connect = pymysql.connect(host='127.0.0.1',  # 此处必须是是127.0.0.1
+    db_connect = pymysql.connect(host='10.9.72.185',  # 此处必须是是127.0.0.1
                                  port=3306,
                                  user='root',
                                  passwd='8jN5N8T5v4K5',
